@@ -9,6 +9,10 @@ ahamedafri/ahamedafri is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
+<img 
+   src="https://github-readme-stats.vercel.app/api?username=ahamedafri&show_icons=true&theme=tokyonight" 
+/>
+
 
 
 [![@ahamedafri's Holopin board](https://holopin.io/api/user/board?user=ahamedafri)](https://holopin.io/@ahamedafri)
