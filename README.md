@@ -11,15 +11,8 @@
 
 <p align="left"> <a href="https://twitter.com/ahmedafri1" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedafri1?logo=twitter&style=for-the-badge" alt="ahmedafri1" /></a> </p>
    
-<!---
-ahamedafri/ahamedafri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<div align="left">
-<img 
-   src="https://github-readme-stats.vercel.app/api?username=ahamedafri&show_icons=true&theme=tokyonight" 
-/>
-</div>
+
+
 
 
 [![@ahamedafri's Holopin board](https://holopin.io/api/user/board?user=ahamedafri)](https://holopin.io/@ahamedafri)
