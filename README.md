@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yaseer Ahamed Afri</h1>
 
-- 👀 I’m 3rd Student at 📍 NSBM 🏫 pursuing Computer Science Degree
+- 👀 I’m 4th year Student at 📍 NSBM 🏫 pursuing Computer Science Degree
 - 🌱 I’m currently learning  backend web development
-- 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me email : ahamedafricontact@gmail.com
+- 💞️ I’m looking to collaborate on open-source projects
+- 📫 How to reach me email: ahamedafricontact@gmail.com
 - 😇 I enjoy reading books 📚 and solving problems 📝 using Computer Science 💻.
 
 <h3 align="left">Languages and Tools:</h3>
