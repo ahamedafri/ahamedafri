@@ -11,5 +11,5 @@
 
 <p align="left"> <a href="https://twitter.com/ahmedafri1" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedafri1?logo=twitter&style=for-the-badge" alt="ahmedafri1" /></a> </p>
    
-
+![](https://komarev.com/ghpvc/?username=ahamedafri&color=brightgreen)
 [![@ahamedafri's Holopin board](https://holopin.io/api/user/board?user=ahamedafri)](https://holopin.io/@ahamedafri)
